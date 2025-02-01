@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TycaxL5BQmsO2tT4uQFz2OCfWbimIBHoMYdN7WWx2e2XDMhl1umBBf4ZVHFlqLFo7ZUAAGiU43XqCc6jH0X4eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Somachi Chukeuma`\\OneDrive\\Desktop\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Somachi Chukeuma`\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
