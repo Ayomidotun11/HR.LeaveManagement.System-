@@ -9,3 +9,4 @@ C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveMan
 C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\refint\HR.LeaveManagement.Domain.dll
 C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.pdb
 C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.sourcelink.json
