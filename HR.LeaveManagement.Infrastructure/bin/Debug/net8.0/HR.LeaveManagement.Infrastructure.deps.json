@@ -192,12 +192,18 @@
           "MediatR": "12.4.1"
         },
         "runtime": {
-          "HR.LeaveManagement.Application.dll": {}
+          "HR.LeaveManagement.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "HR.LeaveManagement.Domain/1.0.0": {
         "runtime": {
-          "HR.LeaveManagement.Domain.dll": {}
+          "HR.LeaveManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

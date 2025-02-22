@@ -19,8 +19,8 @@ namespace HR.LeaveManagement.Persistence.Configurations
                    Id = 1,
                    Name = "Vacation",
                    DefaultDays = 10,
-                   DateCreated = new DateTime(2025, 02, 1), // Use a static date
-                   DateModified = new DateTime(2025, 02, 1) // Use a static date
+                   DateCreated = DateTime.Now,
+                   DateModified = DateTime.Now
                }
            );
 

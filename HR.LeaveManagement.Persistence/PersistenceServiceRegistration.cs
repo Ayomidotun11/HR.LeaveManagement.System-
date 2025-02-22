@@ -2,6 +2,7 @@
 using HR.LeaveManagement.Persistence.DatabaseContext;
 using HR.LeaveManagement.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -15,6 +16,9 @@ public static class PersistenceServiceRegistration
         services.AddDbContext<HrDatabaseContext>(options => {
             options.UseSqlServer(configuration.GetConnectionString("HrDatabaseConnectionString"));
         });
+        services.AddDbContext<HrDatabaseContext>(options =>
+            options.ConfigureWarnings(warnings => warnings.Ignore(RelationalEventId.PendingModelChangesWarning))
+        );
 
         services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         services.AddScoped<ILeaveTypeRepository, LeaveTypeRepository>();
