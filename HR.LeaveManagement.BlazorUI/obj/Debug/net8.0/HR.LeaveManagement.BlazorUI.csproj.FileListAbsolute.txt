@@ -1,0 +1,7 @@
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.csproj.AssemblyReference.cache
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.AssemblyInfoInputs.cache
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.AssemblyInfo.cs
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.csproj.CoreCompileInputs.cache
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Somachi Chukeuma`\OneDrive\Desktop\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.sourcelink.json
